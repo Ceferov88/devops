@@ -1,3 +1,3 @@
 # devops
 terraform
-demo
+demo-repo
